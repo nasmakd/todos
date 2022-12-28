@@ -57,7 +57,7 @@ li {
 	height: 50px;
 	line-height: 50px;
 	margin: 18px 0;
-	padding: 0 20px;
+	padding-left: 20px;
 	border-radius: 6px;
 	text-align: left;
 }
@@ -73,7 +73,7 @@ li {
 .removeBtn {
 	margin-left: auto;
 	width: 50px;
-	text-align: right;
+	text-align: center;
 	cursor: pointer;
 	color: #3c6255;
 }
